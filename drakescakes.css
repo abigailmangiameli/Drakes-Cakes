@@ -1,0 +1,63 @@
+body {
+	background-color: #ffe7dc;
+	color: #fff;
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+	font-family: Alice; 
+}
+
+.nbl {
+	margin-right: 1em;
+	margin-left: 1em;
+
+}
+.nav-item {
+	font-weight: bold;
+}
+
+.nav-link {
+	color: black !important;
+	font-size: 20px;
+	margin-left: 4em;
+}
+
+.navbar-brand {
+	margin-left: 1em;
+}
+
+.dropdown a {
+	color: black;
+}
+
+.dropdown-divider {
+	width: 10em;
+}
+
+.header {
+	background-color: #E7D1C7;
+}
+
+.medialinks {
+	margin-left: 40em;
+}
+
+.h1 {
+	margin-bottom: .36em;
+	font-size: 3.78em;
+}
+
+ hr {
+        height: 10px !important;
+        background-color: white;
+}
+
+.favorite {
+	margin-top: 2em;
+	margin-bottom: 2em;
+	color: black;
+}
+.carousel {
+	width: 1000px;
+}
+
